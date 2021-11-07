@@ -53,4 +53,6 @@ class PusatData{
 int main(){
     PusatData done;
     done.startPengurutan();
+    
+    return 0;
 }
